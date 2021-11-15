@@ -4,3 +4,5 @@ Kheer
 juice
 kova
 chicken
+beans
+pizza
